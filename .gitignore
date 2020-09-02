@@ -1,0 +1,16 @@
+node_modules/
+
+yarn-debug.log*
+yarn-error.log*
+
+*.tsbuildinfo
+
+.eslintcache
+
+.yarn-integrity
+
+__tests__/runner/*
+lib/
+
+# REMOVE when working with Github Actions
+dist/
